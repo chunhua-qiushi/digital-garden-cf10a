@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tips和一些工具/linux工具/"}
 ---
 
-
+一些工具使用命令待补充
 ## nmap
 Nmap _Network mapper_ 开源的网络探测和安全审核的工具，该工具设计主要是为了分析网络主机、服务和弱点。能力包括：
 

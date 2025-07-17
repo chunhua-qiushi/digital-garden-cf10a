@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Lord Of The Root 1.0.1/"}
+{"dg-publish":true,"permalink":"/思/Lord Of The Root 1.0.1/","tags":["打靶","hackthebox"]}
 ---
 
 
