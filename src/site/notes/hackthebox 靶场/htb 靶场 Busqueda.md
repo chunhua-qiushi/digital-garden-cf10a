@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hackthebox/htb-busqueda/","tags":["靶场","打靶","hackthebox"]}
+{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 Busqueda/","tags":["靶场","打靶","hackthebox"]}
 ---
 
 
