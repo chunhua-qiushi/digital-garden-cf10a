@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergency-response-traing/ekp/","tags":["打靶","应急响应"]}
+{"dg-publish":true,"permalink":"/Emergency response traing/玄机 哥斯拉ekp版本流量分析/","tags":["打靶","应急响应"]}
 ---
 
 
