@@ -26,3 +26,12 @@
 [OSCP 练习靶机列表 – 慕鸢のblog](https://www.muyuanhuck.cn/archives/810)
 
 当然还有官方靶场 pg 靶场，接近真题难度
+
+## 未来策略
+恶补oscp 的基础 [[oscp 备战篇/oscp靶场汇总\|oscp靶场汇总]]
+
+tryhackme [[tryhackme/tryhackme待完成\|tryhackme待完成]]
+
+hackthebox academy
+
+python 和 c
