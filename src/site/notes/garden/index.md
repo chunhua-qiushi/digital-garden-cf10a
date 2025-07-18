@@ -9,7 +9,9 @@
 
 笔者还是个小白，备战 oscp 和 osep cpts 中，不断学习
 
-keep moving and try harder
+```
+**keep moving and try harder**
+```
 
 ## 关于 oscp 的备考的靶场
 
