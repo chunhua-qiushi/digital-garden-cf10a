@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-anonforce教程/","title":"anonforce教程","tags":["ctf","linux","密码破解"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-anonforce教程/","title":"anonforce教程","tags":["ctf","linux","密码破解","#tryhackme"]}
 ---
 
 我们开始第一次的ctf的测试 练练手 我们开始搞这个anonforce

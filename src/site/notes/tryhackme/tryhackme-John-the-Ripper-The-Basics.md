@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-John-the-Ripper-The-Basics/","title":"tryhackme-John the Ripper: The Basics","tags":["#密码学","#john"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-John-the-Ripper-The-Basics/","title":"tryhackme-John the Ripper: The Basics","tags":["#密码学","#john","#tryhackme"]}
 ---
 
 时隔多年 总算继续我们的tryhackme之旅了 我们来到剪刀手约翰 john the ripper这个程序

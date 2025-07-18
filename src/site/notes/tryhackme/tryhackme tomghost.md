@@ -18,7 +18,7 @@
 登录成功 
 
 发现有一个gpg和asc
-[[博客/anonforce教程\|anonforce教程]]
+[[anonforce教程\|anonforce教程]]
 需要用到john破解
 
 ```

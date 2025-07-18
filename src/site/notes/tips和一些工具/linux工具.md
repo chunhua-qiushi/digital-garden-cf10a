@@ -1284,7 +1284,7 @@ user@ubuntu$ tshark -r demo.pcapng -z conv,ip -q ===============================
 gobuster dir -u <目标URL> -w <字典路径> [参数]
 ```
 
-[[博客/tryhackme-Gobuster：基础知识#task3\|tryhackme-Gobuster：基础知识#task3]]
+[[tryhackme/tryhackme-Gobuster：基础知识#task3\|tryhackme-Gobuster：基础知识#task3]]
 
 ​### 常用参数​：
 
@@ -1321,7 +1321,7 @@ gobuster dns -d <目标域名> -w <字典路径> [参数]
 |`-i`|显示子域名 IP 地址|`-i`|
 
 ​**​示例​**​：
-[[博客/tryhackme-Gobuster：基础知识#task5\|tryhackme-Gobuster：基础知识#task5]]
+[[tryhackme/tryhackme-Gobuster：基础知识#task5\|tryhackme-Gobuster：基础知识#task5]]
 
 ```bash
 gobuster dns -d example.com -w /usr/share/wordlists/subdomains-top1mil-5000.txt --resolver 1.1.1.1 -t

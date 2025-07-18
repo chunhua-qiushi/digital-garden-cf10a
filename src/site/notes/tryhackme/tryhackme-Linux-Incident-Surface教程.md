@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Linux-Incident-Surface教程/","title":"Linux Incident Surface教程","tags":["linux","安全","管理"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Linux-Incident-Surface教程/","title":"Linux Incident Surface教程","tags":["linux","安全","管理","#tryhackme"]}
 ---
 
 ok啊 因为下学期要来一个linux的课 我打算先把tryhackme的linux先搞一遍 学习学习linux的命令 方便下学期学习
