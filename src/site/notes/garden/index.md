@@ -7,11 +7,14 @@
 
 本站作为一个信安专业的学生平时的知识分享和构建知识体系的记录
 
-笔者还是个小白，备战 oscp 和 osep cpts 中，不断学习
+笔者还是个小白，备战 oscp 的男人，当然还是想要拿下 osce 3，不断学习
 
-```
-**keep moving and try harder**
-```
+
+> [!一点]
+> **keep moving and try harder**
+> 衣带渐宽终不悔，为伊消得人憔悴
+> 									--  《凤栖梧》 柳永
+
 
 ## 关于 oscp 的备考的靶场
 
