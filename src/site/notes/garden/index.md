@@ -10,11 +10,10 @@
 笔者还是个小白，备战 oscp 的男人，当然还是想要拿下 osce 3，不断学习
 
 
-> [!一点话想说]
+> [!tip] 一点话想说的
 > **keep moving and try harder**
 > 
 > 衣带渐宽终不悔，为伊消得人憔悴        --  《凤栖梧》 柳永
-
 
 ## 关于 oscp 的备考的靶场
 
@@ -38,3 +37,5 @@ tryhackme [[tryhackme/tryhackme待完成\|tryhackme待完成]]
 hackthebox academy
 
 python 和 c
+
+[^1]: 
