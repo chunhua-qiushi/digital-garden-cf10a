@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Gobuster：基础知识/","title":"tryhackme-Gobuster：基础知识","tags":["linux","tryhackme"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Gobuster：基础知识/","title":"tryhackme-Gobuster：基础知识","tags":["linux","tryhackme","#渗透工具"]}
 ---
 
 

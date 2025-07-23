@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第六章 流量特征分析-waf 上的截获的黑客攻击流量/","tags":["打靶","应急响应"]}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第六章 流量特征分析-waf 上的截获的黑客攻击流量/","tags":["应急响应","靶场"]}
 ---
 
 ![image.png](https://s2.loli.net/2025/06/02/M2GYmVTakeDUK1b.png)

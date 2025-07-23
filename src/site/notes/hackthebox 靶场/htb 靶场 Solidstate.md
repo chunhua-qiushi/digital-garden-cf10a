@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 Solidstate/","tags":["靶场","渗透","hackthebox"]}
+{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 Solidstate/","tags":["靶场","hackthebox","oscp"]}
 ---
 
 ![image.png](https://s2.loli.net/2025/06/15/KbV4sDTFd5LifIj.png)

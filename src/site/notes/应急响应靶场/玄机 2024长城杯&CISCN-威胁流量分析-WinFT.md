@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 2024长城杯&CISCN-威胁流量分析-WinFT/","tags":["打靶","应急响应"]}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 2024长城杯&CISCN-威胁流量分析-WinFT/","tags":["应急响应","靶场"]}
 ---
 
 ## 第一问

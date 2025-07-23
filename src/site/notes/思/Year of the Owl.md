@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Year of the Owl/","tags":["打靶","渗透"]}
+{"dg-publish":true,"permalink":"/思/Year of the Owl/","tags":["#tryhackme","oscp","靶场"]}
 ---
 
 全是骚操作和不懂的工具

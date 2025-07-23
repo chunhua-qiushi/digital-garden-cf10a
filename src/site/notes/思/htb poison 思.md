@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/htb poison 思/"}
+{"dg-publish":true,"permalink":"/思/htb poison 思/","tags":["靶场","hackthebox","oscp"]}
 ---
 
 

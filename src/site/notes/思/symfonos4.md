@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/symfonos4/","tags":["靶场","渗透","linux","vulnhub"]}
+{"dg-publish":true,"permalink":"/思/symfonos4/","tags":["靶场","linux","vulnhub","oscp"]}
 ---
 
 更加有意思，在枚举子目录就有个奇葩问题，明明操作一样却枚举不出来，用了好几个工具才枚举出来。

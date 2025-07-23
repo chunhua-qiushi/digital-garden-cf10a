@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 Where-1S-tHe-Hacker和p2/","tags":["打靶","应急响应"]}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 Where-1S-tHe-Hacker和p2/","tags":["应急响应","靶场"]}
 ---
 
 # 1

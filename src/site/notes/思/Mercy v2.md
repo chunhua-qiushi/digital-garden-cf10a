@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Mercy v2/","tags":["vulnhub","打靶","渗透","注意"]}
+{"dg-publish":true,"permalink":"/思/Mercy v2/","tags":["vulnhub","渗透","oscp","靶场"]}
 ---
 
 

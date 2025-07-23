@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机   某变异Webshell流量分析/","tags":["打靶","靶场","渗透","应急响应"]}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机   某变异Webshell流量分析/","tags":["应急响应","靶场"]}
 ---
 
 

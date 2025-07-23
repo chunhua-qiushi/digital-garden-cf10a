@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme lookup-教程/","title":"lookup 教程","tags":["linux","渗透"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme lookup-教程/","title":"lookup 教程","tags":["linux","靶场","#tryhackme"]}
 ---
 
 # lookup 教程

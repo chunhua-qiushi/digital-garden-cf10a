@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-密码学基础/","title":"tryhackme 密码学基础","tags":["密码学"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-密码学基础/","title":"tryhackme 密码学基础","tags":["tryhackme","#密码学"]}
 ---
 
 

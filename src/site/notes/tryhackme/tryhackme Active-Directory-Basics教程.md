@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme Active-Directory-Basics教程/","title":"Active Directory Basics教程","tags":["Windows","用户与组","管理"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme Active-Directory-Basics教程/","title":"Active Directory Basics教程","tags":["#靶场","ad域","tryhackme"]}
 ---
 
 

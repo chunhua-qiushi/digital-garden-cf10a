@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-JavaScript-基础知识/","title":"tryhackme-JavaScript 基础知识","tags":["js","tryhackme"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-JavaScript-基础知识/","title":"tryhackme-JavaScript 基础知识","tags":["tryhackme","#JavaScript"]}
 ---
 
 
@@ -58,7 +58,7 @@ JS 是一种解释型语言，这意味着代码无需事先编译即可在浏�
 
 里面的格式是这样的
 
-JS 通过选择一个元素（带有 id="result" 的 <p>）并使用 document.getElementById("result").innerHTML更新其内容来与 HTML 交互
+JS 通过选择一个元素（带有 id="result" 的 <>）并使用 document.getElementById("result").innerHTML更新其内容来与 HTML 交互
 
 ### 外部 JavaScript
 

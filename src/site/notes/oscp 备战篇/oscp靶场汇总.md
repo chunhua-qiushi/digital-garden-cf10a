@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oscp 备战篇/oscp靶场汇总/","tags":["靶场","打靶","hackthebox","windows","linux","#oscp"]}
+{"dg-publish":true,"permalink":"/oscp 备战篇/oscp靶场汇总/","tags":["靶场","hackthebox","windows","linux","#oscp"]}
 ---
 
 

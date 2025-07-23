@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-nmap基础介绍/","title":"tryhackme nmap基础介绍","tags":["linux","nmap","#tryhackme"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-nmap基础介绍/","title":"tryhackme nmap基础介绍","tags":["linux","#tryhackme","#渗透工具"]}
 ---
 
 

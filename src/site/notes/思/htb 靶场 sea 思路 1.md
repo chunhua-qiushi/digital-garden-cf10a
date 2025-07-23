@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/htb 靶场 sea 思路 1/","tags":["靶场","打靶","hackthebox"]}
+{"dg-publish":true,"permalink":"/思/htb 靶场 sea 思路 1/","tags":["靶场","hackthebox","oscp"]}
 ---
 
 

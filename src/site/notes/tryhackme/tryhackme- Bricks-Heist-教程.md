@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme- Bricks-Heist-教程/","title":"Bricks Heist 教程","tags":["linux","渗透"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme- Bricks-Heist-教程/","title":"Bricks Heist 教程","tags":["linux","#oscp","#tryhackme","靶场"]}
 ---
 
 ### 祝师傅们2025越来越好 技术越来越牛 

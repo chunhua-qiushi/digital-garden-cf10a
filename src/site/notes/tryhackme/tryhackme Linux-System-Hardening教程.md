@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme Linux-System-Hardening教程/","title":"Linux System Hardening教程","tags":["linux","安全","管理"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme Linux-System-Hardening教程/","title":"Linux System Hardening教程","tags":["linux","tryhackme","应急响应"]}
 ---
 
 第一次遇到困难难度的题 有点意思 怕不会是个难关哦 

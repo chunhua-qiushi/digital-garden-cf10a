@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/symfonos：2/","tags":["打靶","渗透","linux"]}
+{"dg-publish":true,"permalink":"/思/symfonos：2/","tags":["linux","靶场","oscp"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/htb 靶场 keeper 思/","tags":["打靶","靶场","hackthebox"]}
+{"dg-publish":true,"permalink":"/思/htb 靶场 keeper 思/","tags":["靶场","hackthebox","oscp"]}
 ---
 
 

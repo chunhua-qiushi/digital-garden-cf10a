@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Ignite靶场wp/","title":"tryhackme-Ignite靶场wp","tags":["tryhackme","linux"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Ignite靶场wp/","title":"tryhackme-Ignite靶场wp","tags":["tryhackme","linux","#oscp","#靶场"]}
 ---
 
 总算是解决了openvpn连接的问题 开始来打靶场

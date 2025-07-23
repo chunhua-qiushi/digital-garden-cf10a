@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/symfonos：1/"}
+{"dg-publish":true,"permalink":"/思/symfonos：1/","tags":["靶场","vulnhub","oscp"]}
 ---
 
 

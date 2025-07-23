@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/cyberlens/"}
+{"dg-publish":true,"permalink":"/思/cyberlens/","tags":["tryhackme","oscp","靶场"]}
 ---
 
 

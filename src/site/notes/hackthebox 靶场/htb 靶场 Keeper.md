@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 Keeper/","tags":["靶场","打靶","hackthebox"]}
+{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 Keeper/","tags":["靶场","hackthebox","oscp"]}
 ---
 
 ![image.png](https://s2.loli.net/2025/06/20/XbOKuDz4VZfeQrW.png)

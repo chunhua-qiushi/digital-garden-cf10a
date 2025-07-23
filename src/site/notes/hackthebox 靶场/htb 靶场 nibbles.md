@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 nibbles/","tags":["打靶","靶场","hackthebox"]}
+{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 nibbles/","tags":["靶场","hackthebox","oscp"]}
 ---
 
 

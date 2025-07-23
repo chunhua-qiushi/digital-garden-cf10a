@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/GoldenEye-v1/"}
+{"dg-publish":true,"permalink":"/思/GoldenEye-v1/","tags":["oscp","vulnhub","靶场"]}
 ---
 
 

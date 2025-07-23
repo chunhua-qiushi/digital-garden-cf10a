@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Linux-Incident-Surface教程/","title":"Linux Incident Surface教程","tags":["linux","安全","管理","#tryhackme"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Linux-Incident-Surface教程/","title":"Linux Incident Surface教程","tags":["linux","#tryhackme","#应急响应"]}
 ---
 
 ok啊 因为下学期要来一个linux的课 我打算先把tryhackme的linux先搞一遍 学习学习linux的命令 方便下学期学习
@@ -100,7 +100,7 @@ echo "attacker ALL=(ALL:ALL) ALL" | sudo tee -a /etc/sudoers
 
 你就能发现刚才操作的痕迹
 
-### task5
+## task5
 
 ![task](/img/user/images/Linux Incident Surface教程/task5.png)
 

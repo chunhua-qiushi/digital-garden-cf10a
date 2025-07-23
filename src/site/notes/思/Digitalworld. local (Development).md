@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Digitalworld. local (Development)/"}
+{"dg-publish":true,"permalink":"/思/Digitalworld. local (Development)/","tags":["靶场","vulnhub","oscp"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-事件响应基础知识/","title":"tryhackme-事件响应基础知识","tags":["响应"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-事件响应基础知识/","title":"tryhackme-事件响应基础知识","tags":["应急响应","#tryhackme"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-OWASP-Top-10-2021上集/","title":"tryhackme OWASP Top 10 - 2021上集","tags":["oaasp","漏洞","tryhackme"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-OWASP-Top-10-2021上集/","title":"tryhackme OWASP Top 10 - 2021上集","tags":["tryhackme","#oscp"]}
 ---
 
 tryhackme的OWASP Top 10 的题目和记录

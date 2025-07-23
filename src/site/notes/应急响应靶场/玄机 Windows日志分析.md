@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 Windows日志分析/"}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 Windows日志分析/","tags":["靶场","应急响应"]}
 ---
 
 ![image.png](https://s2.loli.net/2025/06/01/nlWJt1hx6dP4oOZ.png)

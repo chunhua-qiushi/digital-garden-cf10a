@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Hack Me Please/"}
+{"dg-publish":true,"permalink":"/思/Hack Me Please/","tags":["靶场","vulnhub","oscp"]}
 ---
 
 

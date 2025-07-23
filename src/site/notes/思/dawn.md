@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/dawn/","tags":["打靶","#vulnhub"]}
+{"dg-publish":true,"permalink":"/思/dawn/","tags":["#vulnhub","靶场","oscp"]}
 ---
 
 

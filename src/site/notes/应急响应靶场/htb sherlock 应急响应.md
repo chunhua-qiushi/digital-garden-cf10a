@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/htb sherlock 应急响应/","tags":["应急响应"]}
+{"dg-publish":true,"permalink":"/应急响应靶场/htb sherlock 应急响应/","tags":["应急响应","hackthebox"]}
 ---
 
 

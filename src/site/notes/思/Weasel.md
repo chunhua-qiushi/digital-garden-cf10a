@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Weasel/"}
+{"dg-publish":true,"permalink":"/思/Weasel/","tags":["靶场","tryhackme","oscp"]}
 ---
 
 

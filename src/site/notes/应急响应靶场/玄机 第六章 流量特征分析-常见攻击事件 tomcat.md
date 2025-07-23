@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第六章 流量特征分析-常见攻击事件 tomcat/"}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第六章 流量特征分析-常见攻击事件 tomcat/","tags":["靶场","应急响应"]}
 ---
 
 ![image.png](https://s2.loli.net/2025/06/02/652JXvnIMi8Fzax.png)

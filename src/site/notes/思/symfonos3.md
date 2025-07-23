@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/symfonos3/","tags":["靶场","渗透","vulnhub","linux"]}
+{"dg-publish":true,"permalink":"/思/symfonos3/","tags":["靶场","vulnhub","linux","oscp"]}
 ---
 
 

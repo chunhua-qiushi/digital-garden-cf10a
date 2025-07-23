@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/htb Nibbles 靶场 思/","tags":["靶场","hackthebox","渗透"]}
+{"dg-publish":true,"permalink":"/思/htb Nibbles 靶场 思/","tags":["靶场","hackthebox","oscp"]}
 ---
 
 

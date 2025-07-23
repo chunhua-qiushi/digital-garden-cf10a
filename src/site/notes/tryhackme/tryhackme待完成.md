@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme待完成/"}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme待完成/","tags":["tryhackme","#oscp"]}
 ---
 
 

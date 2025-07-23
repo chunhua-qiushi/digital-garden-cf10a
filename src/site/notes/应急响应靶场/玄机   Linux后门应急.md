@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机   Linux后门应急/","tags":["打靶","应急响应"]}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机   Linux后门应急/","tags":["应急响应","靶场"]}
 ---
 
 

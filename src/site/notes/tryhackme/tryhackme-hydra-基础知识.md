@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-hydra-基础知识/","title":"tryhackme-hydra 基础知识","tags":["linux","tryhackme"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-hydra-基础知识/","title":"tryhackme-hydra 基础知识","tags":["linux","tryhackme","#渗透工具"]}
 ---
 
 ![t](/img/user/images/tryhackme-hydra-基础知识/title.png)

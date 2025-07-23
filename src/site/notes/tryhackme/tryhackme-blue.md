@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-blue/","title":"tryhackme-blue","tags":["linux","tryhackme"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-blue/","title":"tryhackme-blue","tags":["linux","tryhackme","oscp","靶场"]}
 ---
 
 

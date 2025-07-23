@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第一章 应急响应-webshell查杀/"}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第一章 应急响应-webshell查杀/","tags":["靶场","应急响应"]}
 ---
 
 

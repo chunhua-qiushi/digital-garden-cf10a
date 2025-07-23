@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips和一些工具/linux工具/"}
+{"dg-publish":true,"permalink":"/tips和一些工具/linux工具/","tags":["渗透工具","#oscp"]}
 ---
 
 一些工具使用命令待补充

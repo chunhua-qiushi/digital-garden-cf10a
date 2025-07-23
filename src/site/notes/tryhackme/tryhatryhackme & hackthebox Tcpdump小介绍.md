@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhatryhackme & hackthebox Tcpdump小介绍/","title":"tryhackme & hackthebox Tcpdump小介绍","tags":["linux"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhatryhackme & hackthebox Tcpdump小介绍/","title":"tryhackme & hackthebox Tcpdump小介绍","tags":["linux","#tryhackme"]}
 ---
 
 

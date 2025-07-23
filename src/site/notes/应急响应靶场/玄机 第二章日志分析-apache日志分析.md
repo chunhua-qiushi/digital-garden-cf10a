@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第二章日志分析-apache日志分析/"}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第二章日志分析-apache日志分析/","tags":["靶场","应急响应"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 sea/","tags":["打靶","渗透","linux","#hackthebox"]}
+{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 sea/","tags":["#hackthebox","靶场","oscp"]}
 ---
 
 

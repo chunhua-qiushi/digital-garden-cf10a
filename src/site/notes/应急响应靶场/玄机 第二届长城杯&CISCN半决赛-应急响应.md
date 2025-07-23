@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第二届长城杯&CISCN半决赛-应急响应/","tags":["打靶","应急响应"]}
+{"dg-publish":true,"permalink":"/应急响应靶场/玄机 第二届长城杯&CISCN半决赛-应急响应/","tags":["应急响应","靶场"]}
 ---
 
 

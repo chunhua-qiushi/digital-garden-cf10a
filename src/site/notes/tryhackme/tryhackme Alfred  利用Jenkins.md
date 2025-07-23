@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme Alfred  利用Jenkins/"}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme Alfred  利用Jenkins/","tags":["靶场","tryhackme","oscp"]}
 ---
 
 

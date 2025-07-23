@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Silver Platter/"}
+{"dg-publish":true,"permalink":"/思/Silver Platter/","tags":["tryhackme","靶场","oscp"]}
 ---
 
 

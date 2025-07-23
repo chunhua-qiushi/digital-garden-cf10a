@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 jerry Windows/","tags":["靶场","打靶","windows","hackthebox"]}
+{"dg-publish":true,"permalink":"/hackthebox 靶场/htb 靶场 jerry Windows/","tags":["靶场","windows","hackthebox","oscp"]}
 ---
 
 ![image.png](https://s2.loli.net/2025/06/21/vePFNrjIm3ZEw6c.png)

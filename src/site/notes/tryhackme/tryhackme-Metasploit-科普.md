@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Metasploit-科普/","title":"tryhackme-Metasploit 科普","tags":["#tryhackme","#msf"]}
+{"dg-publish":true,"permalink":"/tryhackme/tryhackme-Metasploit-科普/","title":"tryhackme-Metasploit 科普","tags":["#tryhackme","#渗透工具"]}
 ---
 
 好久没更新了 最近在搞obsidian的手机端电脑端的同步 就一直没更新。总算是忙完了。

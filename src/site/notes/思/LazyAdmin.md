@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/LazyAdmin/"}
+{"dg-publish":true,"permalink":"/思/LazyAdmin/","tags":["tryhackme","靶场","oscp"]}
 ---
 
 
