@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/NullByte/","tags":["打靶","渗透"]}
+{"dg-publish":true,"permalink":"/思/NullByte/","tags":["渗透","靶场","vulnhub","oscp"]}
 ---
 
 

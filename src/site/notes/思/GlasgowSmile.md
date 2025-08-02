@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/GlasgowSmile/"}
+{"dg-publish":true,"permalink":"/思/GlasgowSmile/","tags":["靶场","vulnhub","oscp"]}
 ---
 
 

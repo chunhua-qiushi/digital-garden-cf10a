@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/djinn/"}
+{"dg-publish":true,"permalink":"/思/djinn/","tags":["oscp","vulnhub"]}
 ---
 
 

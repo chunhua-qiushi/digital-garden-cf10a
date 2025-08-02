@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/某变异Webshell流量分析 思/","tags":["打靶","应急响应"]}
+{"dg-publish":true,"permalink":"/思/某变异Webshell流量分析 思/","tags":["应急响应","靶场"]}
 ---
 
 

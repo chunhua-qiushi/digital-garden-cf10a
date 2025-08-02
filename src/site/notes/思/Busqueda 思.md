@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/Busqueda 思/"}
+{"dg-publish":true,"permalink":"/思/Busqueda 思/","tags":["靶场","oscp","hackthebox"]}
 ---
 
 

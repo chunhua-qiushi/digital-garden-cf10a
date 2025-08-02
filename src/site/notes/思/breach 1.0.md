@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/breach 1.0/"}
+{"dg-publish":true,"permalink":"/思/breach 1.0/","tags":["oscp","vulnhub"]}
 ---
 
 

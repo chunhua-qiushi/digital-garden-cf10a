@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/思/darkhole2/","tags":["打靶","渗透","vulnhub"]}
+{"dg-publish":true,"permalink":"/思/darkhole2/","tags":["vulnhub","靶场","oscp"]}
 ---
 
 
